@@ -252,7 +252,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           child:ElevatedButton(
                             onPressed: ()
                             {
-                              Navigator.push(context, MaterialPageRoute(builder: (context) => HomePage()));
+                              //Navigator.push(context, MaterialPageRoute(builder: (context) => HomePage()));
                               String email = emailcntrl.text.toString();
                               String pass = passcntrl.text.toString();
                               if(email.isEmpty){
