@@ -5,9 +5,9 @@ It is a cloth inventory catalog management application developed using Flutter.
 You can register, view products & visualize sales data with graphs.
 
 Technology Stack-:
-Frontend- Dart
-Backend- PHP
-Database- MySql
+Frontend- Dart;
+Backend- PHP;
+Database- MySql;
 Tools Used- Android Studio, phpMyAdmin, XAMPP
 
 
